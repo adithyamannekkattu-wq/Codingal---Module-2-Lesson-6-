@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+}
+
+.info{
+    border: 3px solid orange;
+    padding: 1px;
+    background-color: azure; 
+}
+
+.nav{
+    background-color: orange;
+    color:aliceblue;
+    font-size:25px;
+    padding:10px;
+    margin:20px;
+    position:fixed;
+    top:-25;
+    left:-25;
+    right:-25;
+
+}
+
+.intro{
+    font-size:23px;
+    margin:20px;
+    position:relative;
+    top:40
+}
+
+.badge{
+    color:blue;
+    font-size:23px
+}
+
+.mini{
+    position:relative;
+    font-size:10px;
+    top:-22;
+    left:500;
+    right:10px;
+    background-color: green;
+    color:aliceblue;
+    width:50px
+}
+
+.ad{
+    font-size:27px;
+    color:blueviolet;
+
+}
+
+.Info{
+    position:sticky;
+}
+
+
+
